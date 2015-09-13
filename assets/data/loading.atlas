@@ -1,0 +1,47 @@
+
+loading.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 1, 80
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 483, 508
+  size: 462, 372
+  orig: 462, 372
+  offset: 0, 0
+  index: -1
+bar
+  rotate: false
+  xy: 1, 17
+  size: 401, 61
+  orig: 401, 61
+  offset: 0, 0
+  index: -1
+pingzi
+  rotate: false
+  xy: 483, 411
+  size: 41, 95
+  orig: 41, 95
+  offset: 0, 0
+  index: -1
+moshui
+  rotate: false
+  xy: 947, 833
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+xiaotiao
+  rotate: false
+  xy: 1, 1
+  size: 6, 14
+  orig: 6, 14
+  offset: 0, 0
+  index: -1
